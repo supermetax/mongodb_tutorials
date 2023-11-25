@@ -1,0 +1,14 @@
+# .gitignore
+
+# Ignore environment variables file
+.env
+
+# Ignore Python compiled files
+__pycache__/
+
+# Ignore Visual Studio Code settings
+.vscode/
+
+# Ignore the virtual enviornment settings
+venv/
+
