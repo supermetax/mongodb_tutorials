@@ -1,8 +1,5 @@
 # .gitignore
 
-# Ignore environment variables file
-.env
-
 # Ignore Python compiled files
 __pycache__/
 
@@ -12,3 +9,5 @@ __pycache__/
 # Ignore the virtual enviornment settings
 venv/
 
+# Ignore environment variables file
+.env
